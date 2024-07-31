@@ -32,7 +32,7 @@ Captar tendencias de manera que se logre atraer talento usando tecnologías actu
 Para el proyecto final se usará Python como proceso de limpieza y transformación, también como EDA. Posteriormente se usará PowerBI con la finalidad de presentar gráficos visuales dinámicos.
 
 <div style="text-align: center;">
-  <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" style="width: 35%; height: auto; float: left;">
+  <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" style="width: 15%; height: auto; float: left;">
   <img src="https://i.blogs.es/afd5e9/inux2/1366_2000.jpg" style="width: 24%; height: auto; float: left;">
   <img src="https://www.itmastersmag.com/wp-content/uploads/2021/01/shutterstock_1078387013-scaled.jpg" style="width: 30%; height: auto; float: left;">
 </div>
